@@ -1,0 +1,7 @@
+Preciso comprar: 
+
+MAÇÃ
+ABACAXI
+GOIABA
+
+Essa é minha lista de compras.
